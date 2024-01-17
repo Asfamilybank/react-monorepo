@@ -5,7 +5,7 @@ import { Button } from 'antd';
 export interface MyButtonProps {}
 
 export function MyButton(props: MyButtonProps) {
-  console.log(1)
+  console.log(2)
   
   return (
     <div className={styles['container']}>
