@@ -4,7 +4,7 @@ import styles from './app.module.css';
 import NxWelcome from './nx-welcome';
 
 export function App() {
-  console.log('1')
+  console.log(1);
   return (
     <div>
       <NxWelcome title="app1" />
